@@ -43,4 +43,4 @@ Nous pouvons mettre à jour notre Politique de Confidentialité de temps à autr
 ### Contactez-Nous  
 Si vous avez des questions ou des suggestions concernant notre Politique de Confidentialité, n'hésitez pas à nous contacter.
 Informations de Contact :
-Email: *service_clients@mabricole.com*
+Email: service_clients@mabricole.com
